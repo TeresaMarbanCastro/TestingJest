@@ -1,0 +1,14 @@
+{
+  "name": "intro-testing",
+  "version": "1.0.0",
+  "description": "intro to testing in Adalab",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.4.3"
+  }
+}
